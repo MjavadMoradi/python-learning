@@ -4,4 +4,4 @@ for ch in word:
     if ch in "aeiou":
         count_vowels += 1
         
-print(count_vowels) 
+print(count_vowels)
