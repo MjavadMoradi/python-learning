@@ -1,5 +1,4 @@
 def add_numbers(x, y):
-    result = x + y
-    return result
+    return x + y
 
 add_numbers(2, 4)
