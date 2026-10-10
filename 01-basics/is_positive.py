@@ -4,4 +4,4 @@ def is_positive(x):
     else:
         return False
 
-print(is_positive(-123))
+print(is_positive(0))

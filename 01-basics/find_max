@@ -1,0 +1,7 @@
+def find_max(x, y):
+    if x > y:
+        return x
+    else:
+        return y
+
+print("max is:", (find_max(1, 2)))
