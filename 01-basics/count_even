@@ -1,0 +1,10 @@
+def count_even(x, y, z):
+    count = 0
+    if x % 2 == 0:
+        count += 1
+    if y % 2 == 0:
+        count += 1
+    if z % 2 == 0:
+        count += 1
+    return count
+print(count_even(2, 4, 3))
